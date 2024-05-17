@@ -14,3 +14,6 @@ To run this application, you need to have Python installed along with the necess
 
 ```bash
 pip install streamlit transformers
+
+
+![image](https://github.com/iamsandeeprSand/Sentiment-Analysis/assets/139530620/051fe240-ba85-431c-bb80-cdba1fc92b55)
