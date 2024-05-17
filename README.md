@@ -1,1 +1,16 @@
-# Sentiment-Analysis
+# Sentiment Analysis with Transformers
+
+This project demonstrates a simple sentiment analysis application using the Hugging Face Transformers library and Streamlit. The application allows users to input a sentence and returns the sentiment (positive/negative) along with a confidence score.
+
+## Features
+
+- User-friendly web interface for inputting sentences
+- Sentiment analysis using a pre-trained model from Hugging Face Transformers
+- Displays sentiment label and confidence score
+
+## Installation
+
+To run this application, you need to have Python installed along with the necessary libraries. You can install the required packages using `pip`:
+
+```bash
+pip install streamlit transformers
