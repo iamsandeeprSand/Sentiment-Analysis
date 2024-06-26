@@ -1,5 +1,7 @@
 # Sentiment Analysis with Transformers
 
+https://youtu.be/vskJeBJ8qzc?si=i22AJ4EFT4hZmZsY
+
 This project demonstrates a simple sentiment analysis application using the Hugging Face Transformers library and Streamlit. The application allows users to input a sentence and returns the sentiment (positive/negative) along with a confidence score.
 
 ## Features
